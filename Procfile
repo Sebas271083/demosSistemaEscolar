@@ -1,0 +1,1 @@
+web: npx http-server dist -p 4173 -c-1 -a 0.0.0.0 --spa
